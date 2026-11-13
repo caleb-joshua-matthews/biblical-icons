@@ -1,0 +1,24 @@
+{
+  "name": "Biblical icons",
+  "short_name": "Biblical icons",
+  "description": "Christian Centre Church Mossel Bay teaching tool for Biblical people, places, words and phrases.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070c1a",
+  "theme_color": "#070c1a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
